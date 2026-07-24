@@ -1,4 +1,4 @@
-n1=input("Enter Number 1:")
+n1=int(input("Enter Number 1:"))
 n2=input("Enter Number 2:")
 
 if n1>n2:
